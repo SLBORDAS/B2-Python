@@ -1,0 +1,37 @@
+ssh-keygen -t rsa -b 4096
+3x entrez
+cat .ssh/id_rsa.pub et tout selectionner jusqu'au "=="
+git clone git@github.com:BenjaminPicard/B2-Pyton.git
+git add 
+git commit -m "add file"
+git push
+git push -u origin master
+
+git rm file"1"
+vim README.md
+	#nhohoejc
+git add
+git commit 
+push
+
+
+
+
+
+
+Se connecter a github dans les paramètre dans clé SSH
+Creer un depot "B2-Python"	
+installer git sur vm
+git@github.com:BenjaminPicard/B2-Pyton.git
+
+
+
+
+
+
+tp a rendre sur github
+avec un readme.md avec une phrase
+un repertoir scripts avec les scripts
+
+
+mp sur discord      le nom:url
